@@ -1,0 +1,778 @@
+,Symptom,Disease
+0,"depressive or psychotic symptoms ,abnormal involuntary movements ,headache ,problems with movement ",hydrocephalus
+1,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ,problems with movement ,seizures ",hydrocephalus
+2,"abnormal involuntary movements ,vomiting ,headache ,seizures ",hydrocephalus
+3,"depressive or psychotic symptoms ,abnormal involuntary movements ,vomiting ",hydrocephalus
+4,"abnormal involuntary movements ,lack of growth ,vomiting ",hydrocephalus
+5,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ,headache ,seizures ",hydrocephalus
+6,"abnormal involuntary movements ,vomiting ,headache ,problems with movement ,seizures ",hydrocephalus
+7,"depressive or psychotic symptoms ,abnormal involuntary movements ,vomiting ,headache ",hydrocephalus
+8,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ,vomiting ,problems with movement ,seizures ",hydrocephalus
+9,"depressive or psychotic symptoms ,abnormal involuntary movements ,seizures ",hydrocephalus
+10,"abnormal involuntary movements ,lack of growth ,vomiting ",hydrocephalus
+11,"abnormal involuntary movements ,headache ,problems with movement ,seizures ",hydrocephalus
+12,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ,headache ,seizures ",hydrocephalus
+13,"depressive or psychotic symptoms ,abnormal involuntary movements ,vomiting ,problems with movement ",hydrocephalus
+14,"abnormal involuntary movements ,lack of growth ,vomiting ,headache ,problems with movement ",hydrocephalus
+15,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ,vomiting ,headache ,seizures ",hydrocephalus
+16,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ,vomiting ,headache ,problems with movement ,seizures ",hydrocephalus
+17,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ",hydrocephalus
+18,"depressive or psychotic symptoms ,abnormal involuntary movements ,problems with movement ,seizures ",hydrocephalus
+19,"depressive or psychotic symptoms ,lack of growth ,headache ,problems with movement ",hydrocephalus
+20,"vomiting ,headache ,problems with movement ",hydrocephalus
+21,"abnormal involuntary movements ,lack of growth ,vomiting ,seizures ",hydrocephalus
+22,"abnormal involuntary movements ,vomiting ,headache ",hydrocephalus
+23,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ,vomiting ,seizures ",hydrocephalus
+24,"depressive or psychotic symptoms ,lack of growth ,vomiting ,headache ",hydrocephalus
+25,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ,vomiting ",hydrocephalus
+26,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ,vomiting ,problems with movement ",hydrocephalus
+27,"depressive or psychotic symptoms ,abnormal involuntary movements ,vomiting ,headache ,seizures ",hydrocephalus
+28,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ,vomiting ,headache ,problems with movement ,seizures ",hydrocephalus
+29,"abnormal involuntary movements ,lack of growth ,headache ,seizures ",hydrocephalus
+30,"depressive or psychotic symptoms ,lack of growth ,vomiting ,problems with movement ",hydrocephalus
+31,"depressive or psychotic symptoms ,abnormal involuntary movements ,vomiting ,seizures ",hydrocephalus
+32,"abnormal involuntary movements ,lack of growth ,problems with movement ",hydrocephalus
+33,"abnormal involuntary movements ,headache ,seizures ",hydrocephalus
+34,"depressive or psychotic symptoms ,abnormal involuntary movements ,headache ,problems with movement ,seizures ",hydrocephalus
+35,"abnormal involuntary movements ,vomiting ,headache ,problems with movement ",hydrocephalus
+36,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ,vomiting ",hydrocephalus
+37,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ,vomiting ,problems with movement ,seizures ",hydrocephalus
+38,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ,vomiting ,headache ,problems with movement ",hydrocephalus
+39,"depressive or psychotic symptoms ,abnormal involuntary movements ,vomiting ,problems with movement ,seizures ",hydrocephalus
+40,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ,headache ",hydrocephalus
+41,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ,headache ,problems with movement ",hydrocephalus
+42,"depressive or psychotic symptoms ,abnormal involuntary movements ,vomiting ,headache ,problems with movement ",hydrocephalus
+43,"depressive or psychotic symptoms ,abnormal involuntary movements ,headache ,problems with movement ",hydrocephalus
+44,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ,vomiting ,problems with movement ,seizures ",hydrocephalus
+45,"depressive or psychotic symptoms ,abnormal involuntary movements ,problems with movement ",hydrocephalus
+46,"depressive or psychotic symptoms ,abnormal involuntary movements ,headache ,problems with movement ",hydrocephalus
+47,"abnormal involuntary movements ,vomiting ,headache ,problems with movement ,seizures ",hydrocephalus
+48,"depressive or psychotic symptoms ,lack of growth ,vomiting ,problems with movement ",hydrocephalus
+49,"abnormal involuntary movements ,vomiting ,headache ",hydrocephalus
+50,"abnormal involuntary movements ,lack of growth ,vomiting ,problems with movement ",hydrocephalus
+51,"abnormal involuntary movements ,lack of growth ,headache ,problems with movement ",hydrocephalus
+52,"abnormal involuntary movements ,headache ,seizures ",hydrocephalus
+53,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ,seizures ",hydrocephalus
+54,"abnormal involuntary movements ,seizures ",hydrocephalus
+55,"abnormal involuntary movements ,lack of growth ,vomiting ",hydrocephalus
+56,"abnormal involuntary movements ,lack of growth ,headache ",hydrocephalus
+57,"depressive or psychotic symptoms ,abnormal involuntary movements ,vomiting ,headache ,seizures ",hydrocephalus
+58,"abnormal involuntary movements ,vomiting ,headache ,seizures ",hydrocephalus
+59,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ,vomiting ,problems with movement ",hydrocephalus
+60,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ,vomiting ",hydrocephalus
+61,"abnormal involuntary movements ,lack of growth ,vomiting ,seizures ",hydrocephalus
+62,"depressive or psychotic symptoms ,lack of growth ,problems with movement ,seizures ",hydrocephalus
+63,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ,vomiting ,headache ",hydrocephalus
+64,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ,vomiting ,problems with movement ",hydrocephalus
+65,"abnormal involuntary movements ,vomiting ,seizures ",hydrocephalus
+66,"abnormal involuntary movements ,lack of growth ,headache ,problems with movement ,seizures ",hydrocephalus
+67,"depressive or psychotic symptoms ,abnormal involuntary movements ",hydrocephalus
+68,"depressive or psychotic symptoms ,abnormal involuntary movements ,headache ,seizures ",hydrocephalus
+69,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ,vomiting ,headache ,problems with movement ",hydrocephalus
+70,"abnormal involuntary movements ,lack of growth ,vomiting ,headache ,problems with movement ",hydrocephalus
+71,"abnormal involuntary movements ,lack of growth ,vomiting ,headache ,seizures ",hydrocephalus
+72,"abnormal involuntary movements ,lack of growth ,vomiting ,seizures ",hydrocephalus
+73,"abnormal involuntary movements ,headache ,problems with movement ",hydrocephalus
+74,"lack of growth ,vomiting ,headache ,problems with movement ",hydrocephalus
+75,"abnormal involuntary movements ,lack of growth ,headache ,problems with movement ",hydrocephalus
+76,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ",hydrocephalus
+77,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ",hydrocephalus
+78,"abnormal involuntary movements ,lack of growth ,problems with movement ",hydrocephalus
+79,"abnormal involuntary movements ,lack of growth ,vomiting ,headache ,problems with movement ,seizures ",hydrocephalus
+80,"abnormal involuntary movements ,lack of growth ,headache ,seizures ",hydrocephalus
+81,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ,headache ,problems with movement ,seizures ",hydrocephalus
+82,"abnormal involuntary movements ,lack of growth ,seizures ",hydrocephalus
+83,"depressive or psychotic symptoms ,abnormal involuntary movements ,headache ",hydrocephalus
+84,"abnormal involuntary movements ,lack of growth ,vomiting ,headache ,seizures ",hydrocephalus
+85,"abnormal involuntary movements ,vomiting ,problems with movement ",hydrocephalus
+86,"abnormal involuntary movements ,lack of growth ,vomiting ,problems with movement ,seizures ",hydrocephalus
+87,"abnormal involuntary movements ,lack of growth ,headache ",hydrocephalus
+88,"abnormal involuntary movements ,vomiting ,problems with movement ,seizures ",hydrocephalus
+89,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ,vomiting ,headache ",hydrocephalus
+90,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ,vomiting ,headache ,problems with movement ",hydrocephalus
+91,"abnormal involuntary movements ,vomiting ,problems with movement ",hydrocephalus
+92,"abnormal involuntary movements ,lack of growth ,vomiting ,headache ",hydrocephalus
+93,"abnormal involuntary movements ,headache ,problems with movement ",hydrocephalus
+94,"depressive or psychotic symptoms ,headache ,problems with movement ,seizures ",hydrocephalus
+95,"abnormal involuntary movements ,lack of growth ,headache ,seizures ",hydrocephalus
+96,"abnormal involuntary movements ,vomiting ",hydrocephalus
+97,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ,problems with movement ",hydrocephalus
+98,"abnormal involuntary movements ,lack of growth ,headache ,problems with movement ,seizures ",hydrocephalus
+99,"abnormal involuntary movements ,lack of growth ,headache ",hydrocephalus
+100,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ,vomiting ,headache ",hydrocephalus
+101,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ,headache ,seizures ",hydrocephalus
+102,"abnormal involuntary movements ,vomiting ",hydrocephalus
+103,"abnormal involuntary movements ,lack of growth ,vomiting ,headache ,problems with movement ,seizures ",hydrocephalus
+104,"vomiting ,seizures ",hydrocephalus
+105,"lack of growth ,vomiting ,headache ,problems with movement ",hydrocephalus
+106,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ,headache ,seizures ",hydrocephalus
+107,"lack of growth ,headache ,problems with movement ,seizures ",hydrocephalus
+108,"abnormal involuntary movements ,lack of growth ,headache ",hydrocephalus
+109,"depressive or psychotic symptoms ,abnormal involuntary movements ,vomiting ",hydrocephalus
+110,"depressive or psychotic symptoms ,abnormal involuntary movements ,vomiting ,headache ,problems with movement ",hydrocephalus
+111,"abnormal involuntary movements ,lack of growth ,problems with movement ",hydrocephalus
+112,"lack of growth ,vomiting ,headache ,seizures ",hydrocephalus
+113,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ,vomiting ,headache ,problems with movement ,seizures ",hydrocephalus
+114,"abnormal involuntary movements ,lack of growth ,problems with movement ,seizures ",hydrocephalus
+115,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ,headache ,seizures ",hydrocephalus
+116,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ,headache ,problems with movement ,seizures ",hydrocephalus
+117,"abnormal involuntary movements ,lack of growth ,headache ,problems with movement ",hydrocephalus
+118,"lack of growth ,vomiting ,headache ",hydrocephalus
+119,"abnormal involuntary movements ,vomiting ,problems with movement ,seizures ",hydrocephalus
+120,"depressive or psychotic symptoms ,abnormal involuntary movements ,vomiting ,seizures ",hydrocephalus
+121,"abnormal involuntary movements ,vomiting ,seizures ",hydrocephalus
+122,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ,vomiting ,problems with movement ,seizures ",hydrocephalus
+123,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ,headache ",hydrocephalus
+124,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ,headache ,problems with movement ",hydrocephalus
+125,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ",hydrocephalus
+126,"abnormal involuntary movements ,vomiting ,headache ,problems with movement ",hydrocephalus
+127,"depressive or psychotic symptoms ,abnormal involuntary movements ,problems with movement ",hydrocephalus
+128,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ,headache ,problems with movement ,seizures ",hydrocephalus
+129,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ,headache ,seizures ",hydrocephalus
+130,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ,vomiting ,seizures ",hydrocephalus
+131,"depressive or psychotic symptoms ,abnormal involuntary movements ,headache ",hydrocephalus
+132,"vomiting ,headache ,problems with movement ,seizures ",hydrocephalus
+133,"depressive or psychotic symptoms ,abnormal involuntary movements ,vomiting ,problems with movement ",hydrocephalus
+134,"depressive or psychotic symptoms ,abnormal involuntary movements ,headache ,problems with movement ",hydrocephalus
+135,"depressive or psychotic symptoms ,abnormal involuntary movements ,vomiting ,headache ,problems with movement ",hydrocephalus
+136,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ,headache ,seizures ",hydrocephalus
+137,"depressive or psychotic symptoms ,lack of growth ,vomiting ,headache ,problems with movement ",hydrocephalus
+138,"abnormal involuntary movements ,lack of growth ,headache ",hydrocephalus
+139,"abnormal involuntary movements ,lack of growth ,headache ,problems with movement ,seizures ",hydrocephalus
+140,"depressive or psychotic symptoms ,abnormal involuntary movements ,vomiting ,seizures ",hydrocephalus
+141,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ,vomiting ,headache ",hydrocephalus
+142,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ,vomiting ,headache ,problems with movement ",hydrocephalus
+143,"abnormal involuntary movements ,lack of growth ,headache ,problems with movement ",hydrocephalus
+144,"abnormal involuntary movements ,lack of growth ,vomiting ,headache ,problems with movement ",hydrocephalus
+145,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ,headache ",hydrocephalus
+146,"abnormal involuntary movements ,vomiting ,headache ",hydrocephalus
+147,"abnormal involuntary movements ,lack of growth ,headache ",hydrocephalus
+148,"abnormal involuntary movements ,lack of growth ,seizures ",hydrocephalus
+149,"abnormal involuntary movements ,lack of growth ,vomiting ,headache ,seizures ",hydrocephalus
+150,"depressive or psychotic symptoms ,abnormal involuntary movements ,vomiting ",hydrocephalus
+151,"abnormal involuntary movements ,lack of growth ,problems with movement ,seizures ",hydrocephalus
+152,"depressive or psychotic symptoms ,abnormal involuntary movements ,lack of growth ,headache ,problems with movement ",hydrocephalus
+153,"depressive or psychotic symptoms ,abnormal involuntary movements ,problems with movement ,seizures ",hydrocephalus
+154,"depressive or psychotic symptoms ,abnormal involuntary movements ,vomiting ,headache ,problems with movement ,seizures ",hydrocephalus
+155,"sharp abdominal pain ,vomiting ,nausea ,peripheral edema ",celiac disease
+156,"sharp chest pain ,sharp abdominal pain ,peripheral edema ",celiac disease
+157,"sharp chest pain ,sharp abdominal pain ,vomiting ,nausea ",celiac disease
+158,"sharp chest pain ,sharp abdominal pain ,nausea ,peripheral edema ,regurgitation.1 ",celiac disease
+159,"sharp chest pain ,vomiting ,peripheral edema ",celiac disease
+160,"sharp chest pain ,vomiting ,peripheral edema ,regurgitation.1 ",celiac disease
+161,"sharp abdominal pain ,nausea ,peripheral edema ,regurgitation.1 ",celiac disease
+162,"sharp chest pain ,sharp abdominal pain ,nausea ,peripheral edema ",celiac disease
+163,"sharp chest pain ,sharp abdominal pain ,vomiting ,peripheral edema ,regurgitation.1 ",celiac disease
+164,"sharp chest pain ,sharp abdominal pain ,vomiting ,peripheral edema ",celiac disease
+165,"sharp chest pain ,sharp abdominal pain ,vomiting ",celiac disease
+166,"sharp chest pain ,sharp abdominal pain ,nausea ,peripheral edema ,regurgitation.1 ",celiac disease
+167,"sharp chest pain ,sharp abdominal pain ,vomiting ,regurgitation.1 ",celiac disease
+168,"sharp chest pain ,sharp abdominal pain ,vomiting ,nausea ,peripheral edema ",celiac disease
+169,"sharp chest pain ,peripheral edema ",celiac disease
+170,"sharp chest pain ,sharp abdominal pain ,vomiting ,nausea ,peripheral edema ",celiac disease
+171,"sharp chest pain ,sharp abdominal pain ,vomiting ,nausea ,peripheral edema ,regurgitation.1 ",celiac disease
+172,"sharp chest pain ,sharp abdominal pain ,vomiting ,peripheral edema ,regurgitation.1 ",celiac disease
+173,"sharp chest pain ,sharp abdominal pain ,nausea ,peripheral edema ",celiac disease
+174,"sharp chest pain ,sharp abdominal pain ,nausea ",celiac disease
+175,"sharp chest pain ,sharp abdominal pain ,regurgitation.1 ",celiac disease
+176,"sharp chest pain ,sharp abdominal pain ,peripheral edema ,regurgitation.1 ",celiac disease
+177,"sharp abdominal pain ,vomiting ,peripheral edema ",celiac disease
+178,"sharp chest pain ,sharp abdominal pain ,vomiting ,nausea ,peripheral edema ,regurgitation.1 ",celiac disease
+179,"sharp abdominal pain ,vomiting ,regurgitation.1 ",celiac disease
+180,"sharp abdominal pain ,nausea ,peripheral edema ,regurgitation.1 ",celiac disease
+181,"sharp chest pain ,sharp abdominal pain ,vomiting ,nausea ,regurgitation.1 ",celiac disease
+182,"vomiting ,nausea ,peripheral edema ,regurgitation.1 ",celiac disease
+183,"sharp chest pain ,sharp abdominal pain ,vomiting ,nausea ,peripheral edema ,regurgitation.1 ",celiac disease
+184,"sharp chest pain ,sharp abdominal pain ,nausea ,peripheral edema ",celiac disease
+185,"sharp chest pain ,sharp abdominal pain ,peripheral edema ",celiac disease
+186,"sharp chest pain ,sharp abdominal pain ,vomiting ,peripheral edema ,regurgitation.1 ",celiac disease
+187,"sharp abdominal pain ,peripheral edema ",celiac disease
+188,"sharp abdominal pain ,nausea ",celiac disease
+189,"sharp chest pain ,sharp abdominal pain ,vomiting ,nausea ,peripheral edema ",celiac disease
+190,"sharp chest pain ,sharp abdominal pain ,vomiting ",celiac disease
+191,"vomiting ,peripheral edema ,regurgitation.1 ",celiac disease
+192,"sharp chest pain ,sharp abdominal pain ,vomiting ,nausea ",celiac disease
+193,"sharp chest pain ,sharp abdominal pain ,vomiting ,nausea ,peripheral edema ,regurgitation.1 ",celiac disease
+194,"sharp abdominal pain ,vomiting ,peripheral edema ",celiac disease
+195,"sharp chest pain ,sharp abdominal pain ,vomiting ,nausea ,peripheral edema ",celiac disease
+196,"sharp chest pain ,vomiting ,peripheral edema ,regurgitation.1 ",celiac disease
+197,"sharp chest pain ,sharp abdominal pain ,peripheral edema ",celiac disease
+198,"sharp chest pain ,sharp abdominal pain ,vomiting ,regurgitation.1 ",celiac disease
+199,"sharp chest pain ,sharp abdominal pain ,vomiting ,peripheral edema ",celiac disease
+200,"sharp chest pain ,sharp abdominal pain ,nausea ,peripheral edema ",celiac disease
+201,"sharp chest pain ,nausea ,peripheral edema ,regurgitation.1 ",celiac disease
+202,"sharp chest pain ,sharp abdominal pain ,vomiting ,peripheral edema ",celiac disease
+203,"sharp abdominal pain ,vomiting ,peripheral edema ",celiac disease
+204,"sharp chest pain ,sharp abdominal pain ,nausea ,peripheral edema ",celiac disease
+205,"sharp chest pain ,sharp abdominal pain ,vomiting ,peripheral edema ",celiac disease
+206,"sharp chest pain ,sharp abdominal pain ,vomiting ,peripheral edema ,regurgitation.1 ",celiac disease
+207,"sharp abdominal pain ,nausea ,peripheral edema ",celiac disease
+208,"sharp chest pain ,peripheral edema ,regurgitation.1 ",celiac disease
+209,"sharp chest pain ,vomiting ",celiac disease
+210,"vomiting ,nausea ,peripheral edema ,regurgitation.1 ",celiac disease
+211,"sharp chest pain ,sharp abdominal pain ,peripheral edema ,regurgitation.1 ",celiac disease
+212,"sharp chest pain ,vomiting ,peripheral edema ",celiac disease
+213,"sharp chest pain ,sharp abdominal pain ,vomiting ,nausea ,peripheral edema ,regurgitation.1 ",celiac disease
+214,"sharp chest pain ,sharp abdominal pain ,vomiting ,nausea ,peripheral edema ,regurgitation.1 ",celiac disease
+215,"sharp chest pain ,vomiting ,peripheral edema ",celiac disease
+216,"sharp chest pain ,sharp abdominal pain ,peripheral edema ,regurgitation.1 ",celiac disease
+217,"sharp chest pain ,vomiting ,nausea ,peripheral edema ,regurgitation.1 ",celiac disease
+218,"sharp chest pain ,vomiting ,regurgitation.1 ",celiac disease
+219,"sharp abdominal pain ,peripheral edema ,regurgitation.1 ",celiac disease
+220,"sharp chest pain ,sharp abdominal pain ,nausea ,peripheral edema ,regurgitation.1 ",celiac disease
+221,"sharp abdominal pain ,vomiting ,regurgitation.1 ",celiac disease
+222,"sharp chest pain ,vomiting ,nausea ,regurgitation.1 ",celiac disease
+223,"sharp chest pain ,sharp abdominal pain ,vomiting ,nausea ,peripheral edema ",celiac disease
+224,"sharp chest pain ,sharp abdominal pain ,vomiting ,peripheral edema ,regurgitation.1 ",celiac disease
+225,"vomiting ,nausea ,regurgitation.1 ",celiac disease
+226,"sharp chest pain ,vomiting ,nausea ,peripheral edema ,regurgitation.1 ",celiac disease
+227,"sharp chest pain ,sharp abdominal pain ,peripheral edema ,regurgitation.1 ",celiac disease
+228,"sharp chest pain ,vomiting ,peripheral edema ",celiac disease
+229,"sharp chest pain ,nausea ,peripheral edema ,regurgitation.1 ",celiac disease
+230,"sharp chest pain ,sharp abdominal pain ,peripheral edema ",celiac disease
+231,"sharp chest pain ,sharp abdominal pain ,peripheral edema ,regurgitation.1 ",celiac disease
+232,"sharp abdominal pain ,vomiting ,peripheral edema ,regurgitation.1 ",celiac disease
+233,"sharp chest pain ,sharp abdominal pain ,vomiting ,peripheral edema ",celiac disease
+234,"sharp chest pain ,vomiting ,nausea ,peripheral edema ",celiac disease
+235,"sharp chest pain ,sharp abdominal pain ,nausea ",celiac disease
+236,"vomiting ,peripheral edema ",celiac disease
+237,"sharp chest pain ,peripheral edema ,regurgitation.1 ",celiac disease
+238,"sharp chest pain ,vomiting ,peripheral edema ",celiac disease
+239,"vomiting ,nausea ,peripheral edema ",celiac disease
+240,"sharp chest pain ,sharp abdominal pain ,vomiting ,peripheral edema ",celiac disease
+241,"sharp chest pain ,sharp abdominal pain ,vomiting ,nausea ,peripheral edema ,regurgitation.1 ",celiac disease
+242,"sharp chest pain ,sharp abdominal pain ,vomiting ,nausea ,peripheral edema ,regurgitation.1 ",celiac disease
+243,"sharp abdominal pain ,vomiting ,nausea ,peripheral edema ,regurgitation.1 ",celiac disease
+244,"sharp chest pain ,sharp abdominal pain ,vomiting ,peripheral edema ,regurgitation.1 ",celiac disease
+245,"sharp abdominal pain ,nausea ,peripheral edema ,regurgitation.1 ",celiac disease
+246,"sharp chest pain ,peripheral edema ,regurgitation.1 ",celiac disease
+247,"sharp abdominal pain ,vomiting ,nausea ,peripheral edema ",celiac disease
+248,"sharp abdominal pain ,vomiting ,peripheral edema ",celiac disease
+249,"sharp chest pain ,sharp abdominal pain ,nausea ,regurgitation.1 ",celiac disease
+250,"sharp abdominal pain ,vomiting ,nausea ,peripheral edema ",celiac disease
+251,"sharp abdominal pain ,vomiting ,peripheral edema ",celiac disease
+252,"sharp chest pain ,sharp abdominal pain ,vomiting ,nausea ,peripheral edema ,regurgitation.1 ",celiac disease
+253,"sharp chest pain ,sharp abdominal pain ,vomiting ,nausea ",celiac disease
+254,"sharp abdominal pain ,vomiting ,peripheral edema ,regurgitation.1 ",celiac disease
+255,"sharp chest pain ,vomiting ,nausea ,peripheral edema ",celiac disease
+256,"sharp chest pain ,sharp abdominal pain ,regurgitation.1 ",celiac disease
+257,"vomiting ,peripheral edema ,regurgitation.1 ",celiac disease
+258,"sharp chest pain ,sharp abdominal pain ,vomiting ,peripheral edema ",celiac disease
+259,"sharp chest pain ,sharp abdominal pain ,peripheral edema ,regurgitation.1 ",celiac disease
+260,"sharp chest pain ,sharp abdominal pain ,nausea ,peripheral edema ,regurgitation.1 ",celiac disease
+261,"sharp chest pain ,vomiting ,nausea ,peripheral edema ,regurgitation.1 ",celiac disease
+262,"sharp chest pain ,vomiting ,nausea ,peripheral edema ",celiac disease
+263,"sharp chest pain ,vomiting ,nausea ,peripheral edema ",celiac disease
+264,"sharp chest pain ,vomiting ,peripheral edema ",celiac disease
+265,"sharp chest pain ,vomiting ,nausea ,peripheral edema ,regurgitation.1 ",celiac disease
+266,"sharp abdominal pain ,vomiting ,peripheral edema ",celiac disease
+267,"sharp abdominal pain ,vomiting ,nausea ",celiac disease
+268,"sharp chest pain ,sharp abdominal pain ,vomiting ,peripheral edema ,regurgitation.1 ",celiac disease
+269,"vomiting ,regurgitation.1 ",celiac disease
+270,"sharp chest pain ,sharp abdominal pain ,vomiting ,peripheral edema ",celiac disease
+271,"sharp abdominal pain ,vomiting ,peripheral edema ,regurgitation.1 ",celiac disease
+272,"vomiting ,peripheral edema ,regurgitation.1 ",celiac disease
+273,"sharp chest pain ,nausea ,peripheral edema ,regurgitation.1 ",celiac disease
+274,"sharp chest pain ,sharp abdominal pain ,vomiting ,nausea ",celiac disease
+275,"sharp chest pain ,vomiting ,nausea ,peripheral edema ,regurgitation.1 ",celiac disease
+276,"sharp chest pain ,sharp abdominal pain ,vomiting ,nausea ,peripheral edema ",celiac disease
+277,"sharp chest pain ,sharp abdominal pain ,vomiting ,peripheral edema ,regurgitation.1 ",celiac disease
+278,"sharp abdominal pain ,vomiting ,nausea ,peripheral edema ,regurgitation.1 ",celiac disease
+279,"sharp chest pain ,sharp abdominal pain ,vomiting ,regurgitation.1 ",celiac disease
+280,"sharp chest pain ,vomiting ,nausea ,peripheral edema ,regurgitation.1 ",celiac disease
+281,"sharp chest pain ,sharp abdominal pain ,peripheral edema ",celiac disease
+282,"sharp chest pain ,sharp abdominal pain ,vomiting ,nausea ,peripheral edema ,regurgitation.1 ",celiac disease
+283,"sharp chest pain ,sharp abdominal pain ,nausea ,peripheral edema ,regurgitation.1 ",celiac disease
+284,"sharp chest pain ,sharp abdominal pain ,vomiting ,peripheral edema ,regurgitation.1 ",celiac disease
+285,"vomiting ,nausea ,peripheral edema ,regurgitation.1 ",celiac disease
+286,"sharp chest pain ,sharp abdominal pain ,vomiting ,peripheral edema ",celiac disease
+287,"sharp chest pain ,sharp abdominal pain ,vomiting ,peripheral edema ,regurgitation.1 ",celiac disease
+288,"sharp abdominal pain ,vomiting ,nausea ,peripheral edema ",celiac disease
+289,"sharp chest pain ,sharp abdominal pain ,nausea ,regurgitation.1 ",celiac disease
+290,"vomiting ,nausea ,peripheral edema ,regurgitation.1 ",celiac disease
+291,"sharp chest pain ,sharp abdominal pain ,peripheral edema ",celiac disease
+292,"sharp chest pain ,sharp abdominal pain ,vomiting ,nausea ",celiac disease
+293,"sharp chest pain ,sharp abdominal pain ,vomiting ,nausea ,peripheral edema ",celiac disease
+294,"sharp chest pain ,sharp abdominal pain ,vomiting ,peripheral edema ",celiac disease
+295,"sharp chest pain ,vomiting ,nausea ,peripheral edema ",celiac disease
+296,"sharp chest pain ,sharp abdominal pain ,vomiting ,nausea ,regurgitation.1 ",celiac disease
+297,"sharp abdominal pain ,vomiting ,nausea ,peripheral edema ",celiac disease
+298,"sharp chest pain ,nausea ,peripheral edema ,regurgitation.1 ",celiac disease
+299,"sharp chest pain ,peripheral edema ",celiac disease
+300,"sharp chest pain ,vomiting ,nausea ",celiac disease
+301,"sharp chest pain ,sharp abdominal pain ,vomiting ",celiac disease
+302,"sharp abdominal pain ,peripheral edema ",celiac disease
+303,"sharp chest pain ,sharp abdominal pain ,vomiting ,nausea ,peripheral edema ,regurgitation.1 ",celiac disease
+304,"sharp chest pain ,sharp abdominal pain ,nausea ,peripheral edema ",celiac disease
+305,"sharp chest pain ,sharp abdominal pain ,vomiting ,peripheral edema ",celiac disease
+306,"vaginal itching ,pain during intercourse ,vaginal pain ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+307,"vaginal itching ,pain during intercourse ,vaginal discharge ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+308,"vaginal itching ,vaginal discharge ",vulvar disorder
+309,"vaginal itching ,pain during intercourse ,vaginal discharge ,vaginal pain ",vulvar disorder
+310,"vaginal itching ,pain during intercourse ,vaginal discharge ,vaginal pain ,vulvar irritation ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+311,"vaginal itching ,vaginal discharge ,vulvar irritation ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+312,"pain during intercourse ,vaginal discharge ,vaginal pain ",vulvar disorder
+313,"pain during intercourse ,vaginal discharge ,vaginal pain ",vulvar disorder
+314,"vaginal itching ,pain during intercourse ,vaginal discharge ,vaginal pain ,vulvar irritation ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+315,"vaginal itching ,pain during intercourse ,vaginal discharge ,vulvar irritation ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+316,"vaginal discharge ,vaginal pain ,vulvar irritation ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+317,"vaginal itching ,pain during intercourse ,vaginal discharge ,vaginal pain ,vulvar irritation ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+318,"pain during intercourse ,vaginal discharge ,vaginal pain ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+319,"vaginal itching ,vaginal discharge ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+320,"pain during intercourse ,vaginal pain ,vulvar irritation ",vulvar disorder
+321,"vaginal itching ,pain during intercourse ,vaginal discharge ,vaginal pain ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+322,"vaginal itching ,vaginal pain ,vulvar irritation ",vulvar disorder
+323,"vaginal itching ,pain during intercourse ,vaginal discharge ",vulvar disorder
+324,"vaginal itching ,pain during intercourse ,vaginal discharge ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+325,"pain during intercourse ,vaginal pain ,vulvar irritation ",vulvar disorder
+326,"vaginal itching ,pain during intercourse ,vaginal discharge ,vaginal pain ,vulvar irritation ",vulvar disorder
+327,"vaginal itching ,pain during intercourse ,vaginal discharge ,vaginal pain ,vulvar irritation ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+328,"vaginal itching ,pain during intercourse ,vaginal discharge ,vaginal pain ,vulvar irritation ",vulvar disorder
+329,"vaginal itching ,pain during intercourse ,vaginal pain ,vulvar irritation ",vulvar disorder
+330,"vaginal itching ,vaginal pain ,vulvar irritation ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+331,"vaginal itching ,pain during intercourse ,vaginal pain ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+332,"vaginal itching ,pain during intercourse ,vaginal pain ,vulvar irritation ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+333,"vaginal itching ,pain during intercourse ,vaginal discharge ,vaginal pain ",vulvar disorder
+334,"vaginal itching ,pain during intercourse ,vaginal discharge ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+335,"vaginal itching ,pain during intercourse ,vaginal discharge ",vulvar disorder
+336,"vaginal itching ,pain during intercourse ,vaginal discharge ,vaginal pain ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+337,"vaginal itching ,pain during intercourse ,vaginal pain ",vulvar disorder
+338,"vaginal itching ,pain during intercourse ,vaginal pain ,vulvar irritation ",vulvar disorder
+339,"vaginal itching ,pain during intercourse ,vaginal discharge ,vulvar irritation ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+340,"pain during intercourse ,vaginal pain ,vulvar irritation ",vulvar disorder
+341,"vaginal itching ,pain during intercourse ,vaginal discharge ,vulvar irritation ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+342,"vaginal itching ,pain during intercourse ,vaginal pain ,vulvar irritation ",vulvar disorder
+343,"vaginal itching ,pain during intercourse ,vaginal discharge ,vaginal pain ",vulvar disorder
+344,"vaginal itching ,pain during intercourse ,vaginal discharge ,vaginal pain ,vulvar irritation ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+345,"vaginal itching ,vaginal pain ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+346,"vaginal itching ,pain during intercourse ,vaginal discharge ",vulvar disorder
+347,"vaginal itching ,pain during intercourse ,vaginal discharge ,vaginal pain ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+348,"pain during intercourse ,vaginal discharge ,vaginal pain ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+349,"vaginal itching ,pain during intercourse ,vaginal discharge ",vulvar disorder
+350,"vaginal itching ,pain during intercourse ,vulvar irritation ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+351,"vaginal itching ,vaginal discharge ,vaginal pain ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+352,"vaginal itching ,pain during intercourse ,vaginal pain ,vulvar irritation ",vulvar disorder
+353,"pain during intercourse ,vaginal discharge ,vaginal pain ,vulvar irritation ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+354,"vaginal itching ,vaginal discharge ,vaginal pain ",vulvar disorder
+355,"vaginal pain ,vulvar irritation ",vulvar disorder
+356,"vaginal itching ,pain during intercourse ,vaginal discharge ,vaginal pain ,vulvar irritation ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+357,"vaginal itching ,pain during intercourse ,vaginal discharge ,vaginal pain ,vulvar irritation ",vulvar disorder
+358,"vaginal itching ,pain during intercourse ,vulvar irritation ",vulvar disorder
+359,"vaginal itching ,pain during intercourse ,vaginal pain ",vulvar disorder
+360,"pain during intercourse ,vaginal discharge ,vaginal pain ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+361,"vaginal itching ,pain during intercourse ,vaginal discharge ,vulvar irritation ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+362,"pain during intercourse ,vaginal discharge ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+363,"pain during intercourse ,vaginal discharge ,vaginal pain ,vulvar irritation ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+364,"vaginal itching ,pain during intercourse ",vulvar disorder
+365,"pain during intercourse ,vaginal discharge ,vaginal pain ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+366,"pain during intercourse ,vaginal discharge ",vulvar disorder
+367,"vaginal itching ,pain during intercourse ,vaginal discharge ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+368,"vaginal itching ,vaginal pain ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+369,"pain during intercourse ,vaginal pain ,vulvar irritation ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+370,"vaginal itching ,pain during intercourse ,vaginal pain ,vulvar irritation ",vulvar disorder
+371,"vaginal itching ,vaginal discharge ,vaginal pain ",vulvar disorder
+372,"vaginal itching ,pain during intercourse ,vaginal pain ,vulvar irritation ",vulvar disorder
+373,"pain during intercourse ,vaginal pain ,vulvar irritation ",vulvar disorder
+374,"vaginal discharge ,vaginal pain ",vulvar disorder
+375,"vaginal itching ,pain during intercourse ,vaginal pain ,vulvar irritation ",vulvar disorder
+376,"vaginal itching ,vaginal discharge ,vulvar irritation ",vulvar disorder
+377,"vaginal itching ,pain during intercourse ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+378,"vaginal discharge ,vaginal pain ,vulvar irritation ",vulvar disorder
+379,"vaginal itching ,vaginal discharge ,vaginal pain ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+380,"vaginal itching ,pain during intercourse ,vaginal discharge ,vaginal pain ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+381,"vaginal itching ,vaginal pain ,vulvar irritation ",vulvar disorder
+382,"vaginal itching ,pain during intercourse ,vaginal pain ",vulvar disorder
+383,"vaginal itching ,pain during intercourse ,vaginal discharge ,vaginal pain ,vulvar irritation ",vulvar disorder
+384,"vaginal itching ,pain during intercourse ,vulvar irritation ",vulvar disorder
+385,"vaginal itching ,vaginal discharge ,vaginal pain ,vulvar irritation ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+386,"vaginal itching ,pain during intercourse ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+387,"vaginal itching ,vaginal discharge ,vulvar irritation ",vulvar disorder
+388,"vaginal itching ,vaginal discharge ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+389,"vaginal itching ,pain during intercourse ,vaginal pain ,vulvar irritation ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+390,"vaginal itching ,pain during intercourse ,vaginal pain ,vulvar irritation ",vulvar disorder
+391,"vaginal itching ,pain during intercourse ,vaginal discharge ,vaginal pain ",vulvar disorder
+392,"vaginal itching ,pain during intercourse ,vaginal discharge ",vulvar disorder
+393,"pain during intercourse ,vaginal discharge ,vaginal pain ,vulvar irritation ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+394,"vaginal itching ,pain during intercourse ,vaginal discharge ,vaginal pain ",vulvar disorder
+395,"vaginal itching ,pain during intercourse ,vaginal pain ,vulvar irritation ",vulvar disorder
+396,"vaginal itching ,vaginal discharge ,vaginal pain ,vulvar irritation ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+397,"vaginal itching ,pain during intercourse ,vaginal discharge ,vaginal pain ",vulvar disorder
+398,"pain during intercourse ,vaginal pain ,vulvar irritation ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+399,"vaginal discharge ,vulvar irritation ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+400,"pain during intercourse ,vaginal discharge ,vulvar irritation ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+401,"pain during intercourse ,vaginal discharge ,vaginal pain ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+402,"vaginal itching ,pain during intercourse ,vaginal discharge ,vaginal pain ,vulvar irritation ",vulvar disorder
+403,"vaginal itching ,pain during intercourse ,vaginal discharge ,vaginal pain ",vulvar disorder
+404,"vaginal itching ,vaginal discharge ,vaginal pain ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+405,"vaginal itching ,vaginal discharge ",vulvar disorder
+406,"vaginal itching ,pain during intercourse ,vaginal pain ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+407,"vaginal itching ,pain during intercourse ,vaginal pain ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+408,"vaginal itching ,pain during intercourse ,vaginal discharge ,vaginal pain ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+409,"vaginal itching ,pain during intercourse ,vaginal discharge ,vulvar irritation ",vulvar disorder
+410,"vaginal itching ,pain during intercourse ,vaginal discharge ,vaginal pain ,vulvar irritation ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+411,"vaginal itching ,pain during intercourse ,vaginal discharge ,vaginal pain ,vulvar irritation ",vulvar disorder
+412,"vaginal itching ,vaginal discharge ,vulvar irritation ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+413,"vaginal discharge ,vaginal pain ,vulvar irritation ",vulvar disorder
+414,"pain during intercourse ,vaginal discharge ,vaginal pain ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+415,"vaginal itching ,pain during intercourse ,vaginal discharge ,vaginal pain ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+416,"vaginal itching ,pain during intercourse ,vaginal discharge ,vulvar irritation ",vulvar disorder
+417,"vaginal itching ,pain during intercourse ,vaginal pain ,vulvar irritation ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+418,"vaginal itching ,pain during intercourse ,vaginal pain ",vulvar disorder
+419,"vaginal itching ,pain during intercourse ,vaginal discharge ,vaginal pain ,vulvar irritation ",vulvar disorder
+420,"vaginal discharge ,vaginal pain ,vulvar irritation ",vulvar disorder
+421,"vaginal itching ,vaginal discharge ,vaginal pain ",vulvar disorder
+422,"vaginal itching ,pain during intercourse ",vulvar disorder
+423,"vaginal itching ,pain during intercourse ,vaginal discharge ,vulvar irritation ",vulvar disorder
+424,"vaginal itching ,pain during intercourse ,vaginal pain ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+425,"pain during intercourse ,vaginal discharge ,vaginal pain ,vulvar irritation ",vulvar disorder
+426,"vaginal itching ,pain during intercourse ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+427,"pain during intercourse ,vaginal discharge ,vulvar irritation ",vulvar disorder
+428,"vaginal itching ,pain during intercourse ,vaginal pain ",vulvar disorder
+429,"pain during intercourse ,vaginal discharge ,vaginal pain ,vulvar irritation ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+430,"vaginal discharge ,vaginal pain ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+431,"vaginal itching ,vaginal pain ,vulvar irritation ",vulvar disorder
+432,"vaginal itching ,pain during intercourse ,vaginal discharge ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+433,"vaginal itching ,pain during intercourse ,vaginal discharge ,vaginal pain ",vulvar disorder
+434,"vaginal itching ,pain during intercourse ,vaginal discharge ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+435,"vaginal itching ,pain during intercourse ,vaginal discharge ,vaginal pain ",vulvar disorder
+436,"vaginal itching ,pain during intercourse ,vaginal discharge ,vaginal pain ,vulvar irritation ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+437,"vaginal itching ,pain during intercourse ,vaginal discharge ,vulvar irritation ",vulvar disorder
+438,"vaginal itching ,pain during intercourse ,vaginal discharge ,vaginal pain ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+439,"vaginal itching ,pain during intercourse ,vaginal discharge ,vaginal pain ",vulvar disorder
+440,"vaginal itching ,pain during intercourse ,vaginal discharge ,vaginal pain ,vulvar irritation ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+441,"vaginal itching ,pain during intercourse ,vaginal discharge ",vulvar disorder
+442,"vaginal itching ,vaginal pain ",vulvar disorder
+443,"vaginal itching ,vaginal pain ,vulvar irritation ",vulvar disorder
+444,"pain during intercourse ,vaginal discharge ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+445,"vaginal itching ,pain during intercourse ,vaginal discharge ,vaginal pain ,vulvar irritation ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+446,"vaginal itching ,pain during intercourse ,vaginal discharge ,vaginal pain ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+447,"vaginal itching ,vaginal discharge ,vulvar irritation ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+448,"pain during intercourse ,vaginal pain ,vulvar irritation ",vulvar disorder
+449,"vaginal itching ,pain during intercourse ,vaginal discharge ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+450,"vaginal itching ,pain during intercourse ,vaginal discharge ,vulvar irritation ",vulvar disorder
+451,"vaginal itching ,pain during intercourse ,vaginal discharge ,vaginal pain ",vulvar disorder
+452,"pain during intercourse ,vaginal discharge ,vaginal pain ,vulvar irritation ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+453,"vaginal discharge ,vaginal pain ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+454,"vaginal itching ,pain during intercourse ,vulvar irritation ",vulvar disorder
+455,"vaginal itching ,pain during intercourse ,vulvar irritation ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+456,"vaginal itching ,pain during intercourse ,vaginal discharge ,vulvar irritation ",vulvar disorder
+457,"vaginal itching ,pain during intercourse ,vaginal discharge ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+458,"pain during intercourse ,vaginal discharge ,vaginal pain ,vulvar irritation ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+459,"pain during intercourse ,vaginal pain ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+460,"vaginal itching ,vaginal discharge ,vaginal pain ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+461,"vaginal itching ,pain during intercourse ,vaginal pain ,vulvar irritation ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+462,"vaginal itching ,pain during intercourse ,vaginal pain ",vulvar disorder
+463,"vaginal itching ,pain during intercourse ,vaginal discharge ",vulvar disorder
+464,"vaginal itching ,pain during intercourse ,vaginal discharge ,vaginal pain ",vulvar disorder
+465,"vaginal itching ,vaginal discharge ,vaginal pain ,vulvar irritation ,skin dryness, peeling, scaliness, or roughness ",vulvar disorder
+466,"difficulty in swallowing ,sharp abdominal pain ,diarrhea ",stomach cancer
+467,"difficulty in swallowing ,sharp abdominal pain ,diarrhea ",stomach cancer
+468,"difficulty in swallowing ,vomiting ,diarrhea ",stomach cancer
+469,"difficulty in swallowing ,sharp abdominal pain ,nausea ",stomach cancer
+470,"difficulty in swallowing ,nausea ,diarrhea ,heartburn ",stomach cancer
+471,"difficulty in swallowing ,sharp abdominal pain ,vomiting ,diarrhea ,heartburn ",stomach cancer
+472,"sharp abdominal pain ,nausea ,diarrhea ,burning abdominal pain ",stomach cancer
+473,"difficulty in swallowing ,sharp abdominal pain ,nausea ,diarrhea ,burning abdominal pain ,heartburn ",stomach cancer
+474,"difficulty in swallowing ,sharp abdominal pain ,diarrhea ,burning abdominal pain ,heartburn ",stomach cancer
+475,"difficulty in swallowing ,sharp abdominal pain ,nausea ",stomach cancer
+476,"vomiting ,diarrhea ,burning abdominal pain ,heartburn ",stomach cancer
+477,"difficulty in swallowing ,diarrhea ,burning abdominal pain ",stomach cancer
+478,"difficulty in swallowing ,sharp abdominal pain ,vomiting ,diarrhea ,heartburn ",stomach cancer
+479,"difficulty in swallowing ,sharp abdominal pain ,nausea ,diarrhea ,burning abdominal pain ",stomach cancer
+480,"sharp abdominal pain ,diarrhea ,heartburn ",stomach cancer
+481,"difficulty in swallowing ,sharp abdominal pain ,vomiting ,nausea ,diarrhea ,heartburn ",stomach cancer
+482,"difficulty in swallowing ,sharp abdominal pain ,vomiting ,nausea ,diarrhea ,burning abdominal pain ,heartburn ",stomach cancer
+483,"difficulty in swallowing ,sharp abdominal pain ,vomiting ",stomach cancer
+484,"difficulty in swallowing ,sharp abdominal pain ,nausea ,burning abdominal pain ,heartburn ",stomach cancer
+485,"difficulty in swallowing ,vomiting ,nausea ,diarrhea ,burning abdominal pain ,heartburn ",stomach cancer
+486,"vomiting ,nausea ,diarrhea ",stomach cancer
+487,"difficulty in swallowing ,vomiting ,nausea ,diarrhea ,burning abdominal pain ",stomach cancer
+488,"difficulty in swallowing ,nausea ,diarrhea ,heartburn ",stomach cancer
+489,"difficulty in swallowing ,sharp abdominal pain ,vomiting ,nausea ,diarrhea ,heartburn ",stomach cancer
+490,"nausea ,diarrhea ,burning abdominal pain ",stomach cancer
+491,"difficulty in swallowing ,sharp abdominal pain ,diarrhea ,burning abdominal pain ,heartburn ",stomach cancer
+492,"difficulty in swallowing ,sharp abdominal pain ,vomiting ,nausea ,diarrhea ",stomach cancer
+493,"difficulty in swallowing ,sharp abdominal pain ,nausea ,diarrhea ,burning abdominal pain ",stomach cancer
+494,"difficulty in swallowing ,sharp abdominal pain ,vomiting ,nausea ,diarrhea ,burning abdominal pain ,heartburn ",stomach cancer
+495,"difficulty in swallowing ,vomiting ,nausea ,diarrhea ,heartburn ",stomach cancer
+496,"difficulty in swallowing ,nausea ,burning abdominal pain ",stomach cancer
+497,"difficulty in swallowing ,sharp abdominal pain ,nausea ,diarrhea ,heartburn ",stomach cancer
+498,"difficulty in swallowing ,nausea ,diarrhea ,burning abdominal pain ,heartburn ",stomach cancer
+499,"sharp abdominal pain ,vomiting ,diarrhea ",stomach cancer
+500,"difficulty in swallowing ,sharp abdominal pain ,nausea ,diarrhea ",stomach cancer
+501,"sharp abdominal pain ,nausea ,diarrhea ,burning abdominal pain ",stomach cancer
+502,"vomiting ,diarrhea ,burning abdominal pain ",stomach cancer
+503,"difficulty in swallowing ,sharp abdominal pain ,vomiting ,nausea ,diarrhea ",stomach cancer
+504,"difficulty in swallowing ,sharp abdominal pain ,vomiting ,nausea ,diarrhea ,burning abdominal pain ,heartburn ",stomach cancer
+505,"difficulty in swallowing ,sharp abdominal pain ,nausea ,diarrhea ,burning abdominal pain ",stomach cancer
+506,"difficulty in swallowing ,sharp abdominal pain ,vomiting ,diarrhea ,burning abdominal pain ,heartburn ",stomach cancer
+507,"difficulty in swallowing ,sharp abdominal pain ,vomiting ,diarrhea ,burning abdominal pain ,heartburn ",stomach cancer
+508,"difficulty in swallowing ,sharp abdominal pain ,nausea ,diarrhea ,burning abdominal pain ,heartburn ",stomach cancer
+509,"difficulty in swallowing ,sharp abdominal pain ,nausea ,diarrhea ,heartburn ",stomach cancer
+510,"difficulty in swallowing ,sharp abdominal pain ,vomiting ,nausea ,burning abdominal pain ,heartburn ",stomach cancer
+511,"difficulty in swallowing ,sharp abdominal pain ,nausea ,burning abdominal pain ",stomach cancer
+512,"difficulty in swallowing ,sharp abdominal pain ,nausea ,diarrhea ",stomach cancer
+513,"difficulty in swallowing ,sharp abdominal pain ,diarrhea ,burning abdominal pain ",stomach cancer
+514,"difficulty in swallowing ,vomiting ,nausea ,diarrhea ,burning abdominal pain ",stomach cancer
+515,"difficulty in swallowing ,sharp abdominal pain ,burning abdominal pain ,heartburn ",stomach cancer
+516,"difficulty in swallowing ,vomiting ,nausea ,diarrhea ",stomach cancer
+517,"difficulty in swallowing ,vomiting ,nausea ,diarrhea ,burning abdominal pain ",stomach cancer
+518,"difficulty in swallowing ,vomiting ,nausea ,diarrhea ,burning abdominal pain ,heartburn ",stomach cancer
+519,"difficulty in swallowing ,sharp abdominal pain ,diarrhea ,burning abdominal pain ",stomach cancer
+520,"sharp abdominal pain ,vomiting ,nausea ,diarrhea ,burning abdominal pain ",stomach cancer
+521,"difficulty in swallowing ,vomiting ,diarrhea ,burning abdominal pain ,heartburn ",stomach cancer
+522,"sharp abdominal pain ,vomiting ,diarrhea ,burning abdominal pain ",stomach cancer
+523,"difficulty in swallowing ,sharp abdominal pain ,nausea ,diarrhea ,burning abdominal pain ",stomach cancer
+524,"sharp abdominal pain ,nausea ,burning abdominal pain ,heartburn ",stomach cancer
+525,"difficulty in swallowing ,sharp abdominal pain ,vomiting ,nausea ,burning abdominal pain ",stomach cancer
+526,"difficulty in swallowing ,sharp abdominal pain ,vomiting ,nausea ,heartburn ",stomach cancer
+527,"difficulty in swallowing ,vomiting ,diarrhea ,burning abdominal pain ,heartburn ",stomach cancer
+528,"difficulty in swallowing ,nausea ,diarrhea ,heartburn ",stomach cancer
+529,"difficulty in swallowing ,sharp abdominal pain ,nausea ,heartburn ",stomach cancer
+530,"difficulty in swallowing ,sharp abdominal pain ,diarrhea ,burning abdominal pain ,heartburn ",stomach cancer
+531,"difficulty in swallowing ,vomiting ,diarrhea ,burning abdominal pain ",stomach cancer
+532,"difficulty in swallowing ,vomiting ,burning abdominal pain ",stomach cancer
+533,"difficulty in swallowing ,sharp abdominal pain ,nausea ",stomach cancer
+534,"difficulty in swallowing ,sharp abdominal pain ,nausea ,diarrhea ,heartburn ",stomach cancer
+535,"difficulty in swallowing ,sharp abdominal pain ,vomiting ,nausea ,diarrhea ,burning abdominal pain ,heartburn ",stomach cancer
+536,"sharp abdominal pain ,vomiting ,diarrhea ,heartburn ",stomach cancer
+537,"difficulty in swallowing ,vomiting ,nausea ,diarrhea ",stomach cancer
+538,"sharp abdominal pain ,vomiting ,nausea ,diarrhea ",stomach cancer
+539,"difficulty in swallowing ,vomiting ,burning abdominal pain ",stomach cancer
+540,"vomiting ,nausea ,diarrhea ,burning abdominal pain ,heartburn ",stomach cancer
+541,"difficulty in swallowing ,sharp abdominal pain ,diarrhea ",stomach cancer
+542,"difficulty in swallowing ,sharp abdominal pain ,vomiting ,diarrhea ,heartburn ",stomach cancer
+543,"difficulty in swallowing ,vomiting ,nausea ,diarrhea ,burning abdominal pain ,heartburn ",stomach cancer
+544,"difficulty in swallowing ,nausea ,burning abdominal pain ,heartburn ",stomach cancer
+545,"difficulty in swallowing ,vomiting ,nausea ,burning abdominal pain ",stomach cancer
+546,"sharp abdominal pain ,vomiting ,diarrhea ",stomach cancer
+547,"difficulty in swallowing ,sharp abdominal pain ,vomiting ,diarrhea ,burning abdominal pain ",stomach cancer
+548,"sharp abdominal pain ,vomiting ,diarrhea ,heartburn ",stomach cancer
+549,"difficulty in swallowing ,sharp abdominal pain ,burning abdominal pain ",stomach cancer
+550,"difficulty in swallowing ,nausea ,diarrhea ,heartburn ",stomach cancer
+551,"difficulty in swallowing ,diarrhea ,burning abdominal pain ",stomach cancer
+552,"difficulty in swallowing ,sharp abdominal pain ,diarrhea ,heartburn ",stomach cancer
+553,"difficulty in swallowing ,vomiting ,diarrhea ",stomach cancer
+554,"difficulty in swallowing ,diarrhea ,burning abdominal pain ,heartburn ",stomach cancer
+555,"difficulty in swallowing ,sharp abdominal pain ,vomiting ,nausea ,diarrhea ,burning abdominal pain ,heartburn ",stomach cancer
+556,"difficulty in swallowing ,sharp abdominal pain ,vomiting ,nausea ,diarrhea ,burning abdominal pain ,heartburn ",stomach cancer
+557,"difficulty in swallowing ,diarrhea ,burning abdominal pain ",stomach cancer
+558,"sharp abdominal pain ,vomiting ,nausea ,heartburn ",stomach cancer
+559,"difficulty in swallowing ,vomiting ,nausea ,heartburn ",stomach cancer
+560,"difficulty in swallowing ,vomiting ,nausea ,diarrhea ,burning abdominal pain ,heartburn ",stomach cancer
+561,"sharp abdominal pain ,vomiting ,nausea ,diarrhea ,burning abdominal pain ",stomach cancer
+562,"sharp abdominal pain ,diarrhea ,burning abdominal pain ,heartburn ",stomach cancer
+563,"difficulty in swallowing ,sharp abdominal pain ,vomiting ,diarrhea ",stomach cancer
+564,"difficulty in swallowing ,vomiting ,diarrhea ,burning abdominal pain ",stomach cancer
+565,"difficulty in swallowing ,vomiting ,diarrhea ,heartburn ",stomach cancer
+566,"difficulty in swallowing ,sharp abdominal pain ,vomiting ,nausea ,diarrhea ",stomach cancer
+567,"difficulty in swallowing ,sharp abdominal pain ,vomiting ,diarrhea ,burning abdominal pain ",stomach cancer
+568,"difficulty in swallowing ,nausea ,diarrhea ,burning abdominal pain ,heartburn ",stomach cancer
+569,"nausea ,diarrhea ,burning abdominal pain ,heartburn ",stomach cancer
+570,"difficulty in swallowing ,sharp abdominal pain ,diarrhea ",stomach cancer
+571,"difficulty in swallowing ,nausea ,diarrhea ,heartburn ",stomach cancer
+572,"difficulty in swallowing ,sharp abdominal pain ,vomiting ,diarrhea ,heartburn ",stomach cancer
+573,"vomiting ,nausea ,diarrhea ",stomach cancer
+574,"difficulty in swallowing ,diarrhea ,burning abdominal pain ",stomach cancer
+575,"difficulty in swallowing ,sharp abdominal pain ,nausea ,diarrhea ,heartburn ",stomach cancer
+576,"difficulty in swallowing ,sharp abdominal pain ,nausea ,diarrhea ,burning abdominal pain ,heartburn ",stomach cancer
+577,"difficulty in swallowing ,vomiting ,diarrhea ,burning abdominal pain ,heartburn ",stomach cancer
+578,"difficulty in swallowing ,nausea ,diarrhea ,burning abdominal pain ",stomach cancer
+579,"difficulty in swallowing ,sharp abdominal pain ,diarrhea ,burning abdominal pain ,heartburn ",stomach cancer
+580,"difficulty in swallowing ,nausea ,diarrhea ,burning abdominal pain ",stomach cancer
+581,"difficulty in swallowing ,sharp abdominal pain ,diarrhea ,burning abdominal pain ,heartburn ",stomach cancer
+582,"difficulty in swallowing ,sharp abdominal pain ,vomiting ,diarrhea ,burning abdominal pain ,heartburn ",stomach cancer
+583,"difficulty in swallowing ,vomiting ,diarrhea ,heartburn ",stomach cancer
+584,"difficulty in swallowing ,vomiting ,diarrhea ,heartburn ",stomach cancer
+585,"difficulty in swallowing ,diarrhea ,burning abdominal pain ,heartburn ",stomach cancer
+586,"difficulty in swallowing ,sharp abdominal pain ,diarrhea ,heartburn ",stomach cancer
+587,"difficulty in swallowing ,diarrhea ,burning abdominal pain ,heartburn ",stomach cancer
+588,"difficulty in swallowing ,sharp abdominal pain ,vomiting ,nausea ,diarrhea ",stomach cancer
+589,"difficulty in swallowing ,sharp abdominal pain ,vomiting ,diarrhea ,heartburn ",stomach cancer
+590,"difficulty in swallowing ,sharp abdominal pain ,vomiting ,diarrhea ,burning abdominal pain ,heartburn ",stomach cancer
+591,"difficulty in swallowing ,sharp abdominal pain ,vomiting ,diarrhea ",stomach cancer
+592,"difficulty in swallowing ,nausea ,diarrhea ,burning abdominal pain ,heartburn ",stomach cancer
+593,"difficulty in swallowing ,sharp abdominal pain ,nausea ,diarrhea ",stomach cancer
+594,"difficulty in swallowing ,sharp abdominal pain ,vomiting ,diarrhea ,burning abdominal pain ,heartburn ",stomach cancer
+595,"difficulty in swallowing ,sharp abdominal pain ,vomiting ,diarrhea ,heartburn ",stomach cancer
+596,"difficulty in swallowing ,sharp abdominal pain ,vomiting ,nausea ",stomach cancer
+597,"difficulty in swallowing ,sharp abdominal pain ,nausea ,diarrhea ",stomach cancer
+598,"difficulty in swallowing ,sharp abdominal pain ,vomiting ,diarrhea ",stomach cancer
+599,"difficulty in swallowing ,sharp abdominal pain ,nausea ,diarrhea ,burning abdominal pain ",stomach cancer
+600,"difficulty in swallowing ,sharp abdominal pain ,nausea ,diarrhea ,heartburn ",stomach cancer
+601,"difficulty in swallowing ,sharp abdominal pain ,nausea ,diarrhea ,burning abdominal pain ",stomach cancer
+602,"difficulty in swallowing ,sharp abdominal pain ,diarrhea ,burning abdominal pain ",stomach cancer
+603,"vomiting ,diarrhea ,heartburn ",stomach cancer
+604,"difficulty in swallowing ,nausea ",stomach cancer
+605,"difficulty in swallowing ,sharp abdominal pain ,diarrhea ",stomach cancer
+606,"difficulty in swallowing ,sharp abdominal pain ,nausea ,diarrhea ,heartburn ",stomach cancer
+607,"difficulty in swallowing ,sharp abdominal pain ,vomiting ,nausea ,diarrhea ,burning abdominal pain ",stomach cancer
+608,"difficulty in swallowing ,sharp abdominal pain ,vomiting ,nausea ,diarrhea ,burning abdominal pain ",stomach cancer
+609,"difficulty in swallowing ,vomiting ,diarrhea ",stomach cancer
+610,"difficulty in swallowing ,nausea ,diarrhea ,burning abdominal pain ,heartburn ",stomach cancer
+611,"difficulty in swallowing ,sharp abdominal pain ,vomiting ,diarrhea ,burning abdominal pain ",stomach cancer
+612,"difficulty in swallowing ,nausea ,diarrhea ",stomach cancer
+613,"difficulty in swallowing ,vomiting ,diarrhea ,burning abdominal pain ,heartburn ",stomach cancer
+614,"difficulty in swallowing ,sharp abdominal pain ,diarrhea ,burning abdominal pain ,heartburn ",stomach cancer
+615,"difficulty in swallowing ,vomiting ,nausea ,diarrhea ",stomach cancer
+616,"difficulty in swallowing ,sharp abdominal pain ,nausea ,diarrhea ",stomach cancer
+617,"sharp abdominal pain ,nausea ,diarrhea ,burning abdominal pain ,heartburn ",stomach cancer
+618,"difficulty in swallowing ,sharp abdominal pain ,vomiting ,diarrhea ,burning abdominal pain ",stomach cancer
+619,"difficulty in swallowing ,sharp abdominal pain ,nausea ,burning abdominal pain ",stomach cancer
+620,"difficulty in swallowing ,sharp abdominal pain ,nausea ,diarrhea ,burning abdominal pain ,heartburn ",stomach cancer
+621,"hip pain ,low back pain ,side pain ,low back cramps or spasms ",lumbago
+622,"leg pain ,hip pain ,back pain ,muscle pain ,low back cramps or spasms ",lumbago
+623,"back pain ,low back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+624,"leg pain ,hip pain ,low back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+625,"leg pain ,hip pain ,back pain ,low back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+626,"leg pain ,hip pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+627,"leg pain ,back pain ,muscle pain ,side pain ",lumbago
+628,"leg pain ,hip pain ,low back pain ,side pain ",lumbago
+629,"leg pain ,hip pain ,side pain ,low back cramps or spasms ",lumbago
+630,"leg pain ,hip pain ,muscle pain ,low back cramps or spasms ",lumbago
+631,"hip pain ,back pain ,low back pain ,muscle pain ,low back cramps or spasms ",lumbago
+632,"leg pain ,hip pain ,back pain ,low back pain ,muscle pain ,side pain ",lumbago
+633,"leg pain ,hip pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+634,"back pain ,low back pain ,side pain ,low back cramps or spasms ",lumbago
+635,"leg pain ,hip pain ,muscle pain ,low back cramps or spasms ",lumbago
+636,"hip pain ,back pain ,low back pain ,muscle pain ,side pain ",lumbago
+637,"leg pain ,hip pain ,low back pain ,muscle pain ",lumbago
+638,"hip pain ,back pain ,muscle pain ,side pain ",lumbago
+639,"leg pain ,hip pain ,back pain ,muscle pain ,low back cramps or spasms ",lumbago
+640,"hip pain ,low back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+641,"hip pain ,back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+642,"hip pain ,low back pain ,muscle pain ",lumbago
+643,"hip pain ,back pain ,side pain ,low back cramps or spasms ",lumbago
+644,"leg pain ,back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+645,"leg pain ,hip pain ,back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+646,"leg pain ,hip pain ,low back pain ,side pain ,low back cramps or spasms ",lumbago
+647,"leg pain ,hip pain ,back pain ,low back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+648,"leg pain ,hip pain ,side pain ,low back cramps or spasms ",lumbago
+649,"leg pain ,hip pain ,back pain ,muscle pain ,side pain ",lumbago
+650,"leg pain ,hip pain ,low back pain ,muscle pain ,low back cramps or spasms ",lumbago
+651,"hip pain ,low back pain ,side pain ",lumbago
+652,"leg pain ,back pain ,muscle pain ,low back cramps or spasms ",lumbago
+653,"leg pain ,hip pain ,back pain ,muscle pain ,side pain ",lumbago
+654,"leg pain ,hip pain ,back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+655,"hip pain ,back pain ,low back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+656,"back pain ,low back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+657,"hip pain ,low back pain ,low back cramps or spasms ",lumbago
+658,"leg pain ,hip pain ,low back pain ,side pain ,low back cramps or spasms ",lumbago
+659,"hip pain ,low back pain ,side pain ,low back cramps or spasms ",lumbago
+660,"leg pain ,hip pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+661,"hip pain ,back pain ,muscle pain ,side pain ",lumbago
+662,"hip pain ,back pain ,muscle pain ",lumbago
+663,"leg pain ,hip pain ,back pain ,side pain ",lumbago
+664,"leg pain ,hip pain ,back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+665,"hip pain ,low back pain ,low back cramps or spasms ",lumbago
+666,"hip pain ,back pain ,low back pain ,muscle pain ,side pain ",lumbago
+667,"leg pain ,hip pain ,back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+668,"leg pain ,hip pain ,low back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+669,"leg pain ,hip pain ,back pain ,low back pain ,side pain ",lumbago
+670,"leg pain ,hip pain ,low back pain ,muscle pain ,side pain ",lumbago
+671,"leg pain ,hip pain ,back pain ,low back cramps or spasms ",lumbago
+672,"hip pain ,low back pain ,side pain ,low back cramps or spasms ",lumbago
+673,"hip pain ,low back pain ,muscle pain ",lumbago
+674,"leg pain ,back pain ,low back pain ,muscle pain ",lumbago
+675,"hip pain ,back pain ,side pain ",lumbago
+676,"hip pain ,low back pain ,muscle pain ,side pain ",lumbago
+677,"leg pain ,hip pain ,low back pain ,muscle pain ,side pain ",lumbago
+678,"low back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+679,"leg pain ,hip pain ,side pain ",lumbago
+680,"back pain ,muscle pain ,side pain ",lumbago
+681,"hip pain ,back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+682,"leg pain ,hip pain ,back pain ,muscle pain ,side pain ",lumbago
+683,"leg pain ,back pain ,low back pain ,muscle pain ,low back cramps or spasms ",lumbago
+684,"leg pain ,hip pain ,side pain ",lumbago
+685,"leg pain ,hip pain ,back pain ,low back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+686,"hip pain ,back pain ,low back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+687,"leg pain ,hip pain ,back pain ,muscle pain ,side pain ",lumbago
+688,"hip pain ,low back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+689,"leg pain ,hip pain ,back pain ,muscle pain ,low back cramps or spasms ",lumbago
+690,"leg pain ,hip pain ,low back pain ,side pain ,low back cramps or spasms ",lumbago
+691,"leg pain ,back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+692,"hip pain ,back pain ,low back pain ,muscle pain ,low back cramps or spasms ",lumbago
+693,"hip pain ,low back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+694,"leg pain ,hip pain ,back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+695,"hip pain ,back pain ,low back pain ,muscle pain ",lumbago
+696,"leg pain ,hip pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+697,"leg pain ,hip pain ,back pain ,low back cramps or spasms ",lumbago
+698,"leg pain ,hip pain ,back pain ,low back pain ,side pain ",lumbago
+699,"leg pain ,hip pain ,low back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+700,"leg pain ,hip pain ,back pain ,low back pain ,muscle pain ,side pain ",lumbago
+701,"leg pain ,hip pain ,back pain ,low back pain ,muscle pain ",lumbago
+702,"hip pain ,back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+703,"hip pain ,back pain ,low back pain ,side pain ,low back cramps or spasms ",lumbago
+704,"hip pain ,back pain ,low back pain ,side pain ,low back cramps or spasms ",lumbago
+705,"hip pain ,back pain ,low back cramps or spasms ",lumbago
+706,"leg pain ,back pain ,side pain ,low back cramps or spasms ",lumbago
+707,"leg pain ,back pain ,low back pain ,muscle pain ,side pain ",lumbago
+708,"hip pain ,back pain ",lumbago
+709,"hip pain ,back pain ,low back pain ,low back cramps or spasms ",lumbago
+710,"leg pain ,hip pain ,low back pain ",lumbago
+711,"leg pain ,back pain ,low back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+712,"hip pain ,low back pain ,side pain ,low back cramps or spasms ",lumbago
+713,"leg pain ,low back pain ,muscle pain ,low back cramps or spasms ",lumbago
+714,"leg pain ,back pain ,low back pain ,muscle pain ,side pain ",lumbago
+715,"low back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+716,"hip pain ,back pain ,low back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+717,"leg pain ,low back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+718,"leg pain ,back pain ,low back pain ,side pain ,low back cramps or spasms ",lumbago
+719,"leg pain ,hip pain ,back pain ,side pain ,low back cramps or spasms ",lumbago
+720,"leg pain ,hip pain ,back pain ,low back pain ,muscle pain ,side pain ",lumbago
+721,"leg pain ,hip pain ,back pain ,low back pain ,muscle pain ,side pain ",lumbago
+722,"leg pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+723,"hip pain ,back pain ,side pain ,low back cramps or spasms ",lumbago
+724,"low back pain ,muscle pain ,side pain ",lumbago
+725,"hip pain ,back pain ,muscle pain ,low back cramps or spasms ",lumbago
+726,"hip pain ,low back pain ,muscle pain ",lumbago
+727,"hip pain ,low back pain ,low back cramps or spasms ",lumbago
+728,"back pain ,low back pain ,side pain ,low back cramps or spasms ",lumbago
+729,"hip pain ,back pain ,low back pain ,side pain ,low back cramps or spasms ",lumbago
+730,"hip pain ,back pain ,side pain ,low back cramps or spasms ",lumbago
+731,"leg pain ,hip pain ,back pain ,low back pain ,side pain ,low back cramps or spasms ",lumbago
+732,"leg pain ,hip pain ,muscle pain ,side pain ",lumbago
+733,"hip pain ,back pain ,muscle pain ",lumbago
+734,"leg pain ,low back pain ,muscle pain ,low back cramps or spasms ",lumbago
+735,"back pain ,low back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+736,"hip pain ,back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+737,"low back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+738,"leg pain ,hip pain ,muscle pain ,side pain ",lumbago
+739,"hip pain ,back pain ,side pain ,low back cramps or spasms ",lumbago
+740,"hip pain ,low back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+741,"leg pain ,hip pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+742,"leg pain ,hip pain ,low back pain ,muscle pain ,low back cramps or spasms ",lumbago
+743,"leg pain ,hip pain ,low back pain ,muscle pain ,low back cramps or spasms ",lumbago
+744,"leg pain ,hip pain ,low back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+745,"low back pain ,muscle pain ,side pain ",lumbago
+746,"hip pain ,back pain ,low back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+747,"hip pain ,low back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+748,"leg pain ,hip pain ,low back cramps or spasms ",lumbago
+749,"leg pain ,hip pain ,low back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+750,"leg pain ,hip pain ,back pain ,low back pain ,side pain ,low back cramps or spasms ",lumbago
+751,"back pain ,low back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+752,"leg pain ,hip pain ,low back pain ,muscle pain ,low back cramps or spasms ",lumbago
+753,"leg pain ,hip pain ,back pain ,low back pain ,muscle pain ,low back cramps or spasms ",lumbago
+754,"leg pain ,hip pain ,back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+755,"leg pain ,hip pain ,back pain ,low back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+756,"back pain ,low back pain ,side pain ,low back cramps or spasms ",lumbago
+757,"low back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+758,"hip pain ,back pain ,low back pain ,muscle pain ,side pain ",lumbago
+759,"hip pain ,back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+760,"leg pain ,hip pain ,low back pain ,side pain ",lumbago
+761,"leg pain ,back pain ,low back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+762,"leg pain ,back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+763,"leg pain ,hip pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+764,"back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+765,"leg pain ,back pain ,low back pain ,side pain ",lumbago
+766,"leg pain ,hip pain ,back pain ,low back pain ",lumbago
+767,"leg pain ,hip pain ,back pain ,low back pain ,muscle pain ,low back cramps or spasms ",lumbago
+768,"leg pain ,hip pain ,side pain ",lumbago
+769,"back pain ,side pain ",lumbago
+770,"leg pain ,hip pain ,back pain ,low back pain ,side pain ,low back cramps or spasms ",lumbago
+771,"hip pain ,low back pain ,muscle pain ,side pain ",lumbago
+772,"back pain ,muscle pain ,side pain ,low back cramps or spasms ",lumbago
+773,"leg pain ,low back pain ,muscle pain ,side pain ",lumbago
+774,"hip pain ,back pain ,low back pain ",lumbago
+775,"hip pain ,back pain ,muscle pain ",lumbago
+776,"back pain ,low back pain ,side pain ",lumbago
