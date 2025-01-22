@@ -72,4 +72,9 @@ This project uses the **SymptomsDisease246k dataset** from [Hugging Face](https:
 
 ---
 
-Feel free to fork the repository, explore the files, and contribute to further improving the project!
+## **License**
+
+This project is licensed under the [MIT License](./LICENSE).  
+You are free to use, modify, and distribute this project, provided proper credit is given to the original authors. See the LICENSE file for more details.
+
+---
