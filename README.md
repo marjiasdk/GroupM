@@ -9,7 +9,7 @@ This repository contains the implementation of a project focused on classifying 
 ### 1. **Datasets**
 Contains the original dataset and processed datasets across different iterations. Each iteration folder includes:
 - `*.csv` files: The dataset at that iteration stage.
-- `*_Cleaning.py` files: Scripts used to clean and preprocess the dataset in that iteration.
+- `*_Cleaning_Code.py` files: Scripts used to clean and preprocess the dataset in that iteration.
 
 **Subfolders**:
 - **Original Dataset**: Raw dataset used as the starting point for preprocessing.
